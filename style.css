@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+canvas {
+  border: 3px solid grey;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
+.black {
+  color: black;
+}
+.white {
+  color: white;
+}
+h1 {
+  text-decoration: underline;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
